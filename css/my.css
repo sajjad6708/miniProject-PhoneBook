@@ -1,0 +1,42 @@
+@font-face {
+    font-family: "yekan";
+    src: url("fonts/yekan.eot");
+    src: url("yakan.woff") format("woof");
+}
+
+
+
+
+body {
+    direction: rtl;
+    text-align: right;
+    background:#F0F0F0;
+    font-family:  Arial, Helvetica, sans-serif;
+}
+
+
+.b1{
+    width: 140px;
+    height: 140px;
+    border-radius: 10px;
+    margin-top: 150px;
+
+}
+.card-header{
+    background-color:  #16c1f5!important;
+}
+
+#card1{
+    border-radius: 15px;
+    border: shadow 15px #5b5ee6;
+}
+
+#page1{
+    height: 500px;
+    background-color: rgb(187, 190, 233);
+    border-radius: 0px 140px ;
+}
+
+
+
+

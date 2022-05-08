@@ -1,0 +1,47 @@
+body{
+    direction: rtl;
+    font-family: tahoma, geneva, sans-serif;
+    font-size: 17px;
+
+}
+#p-h{
+    text-align: center !important;
+    color: rgb(42, 10, 71);
+}
+.chatBox{
+     
+     height: 400px; 
+    overflow-y: scroll;
+    border: none;
+    text-align: right !important;
+    background:url(../img/1.png) no-repeat;  
+    background-color: #eca6e3;   
+}
+
+.sender{
+    font-weight: bold;
+    color: rgb(182, 57, 240);
+}
+
+.textMessage{
+    border-radius: 10px 0px 15px ;
+    /* border:solid 3px #3fcde6; */
+    background-color: rgb(123, 224, 241);
+    padding: 7px;
+    margin:5px;
+}
+#messageBox{
+    margin-top: 5px;
+    padding-top: 10px;
+    background-color: #b5e7eb;
+
+}
+
+.form-group{
+    margin-top:8px;
+    padding-top: 9px;
+    margin-left: 5px;
+    float: right;
+    display: block;
+    width: 100%;
+}
